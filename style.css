@@ -1,10 +1,27 @@
-.nav-bar p{
-font-size: 30px;
-color:hot hotpink;
+body{
+	color: lightpink;
+	font-family: Arial;
 }
 
-.nav-bar{
-display:flex;
-justify-content: space-between;
-
+p{
+	text-align:left;
+}
+h1{text-align: center;
+color: gold;
+}
+.puppy{
+	text-align: left;
+    font-family: Arial;
+}
+h2{
+	color:hotpink;
+}
+h3{
+color: hotpink;
+}
+h4{
+color: hotpink;
+}
+.kitten{
+background-color:hotpink ;
 }
